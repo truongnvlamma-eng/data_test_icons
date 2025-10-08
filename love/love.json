@@ -1,0 +1,33 @@
+{
+    "id": "love",
+    "name": "Love",
+    "category": "love",
+    "icon_preview": [
+        {
+            "id": "preview41",
+            "name": "Preview 41",
+            "path": "love/iconsetpreview/preview41.png",
+            "sort": 1
+        },
+        {
+            "id": "preview42",
+            "name": "Preview 42",
+            "path": "love/iconsetpreview/preview42.png",
+            "sort": 2
+        }
+    ],
+    "icon_set": [
+        {
+            "id": "set41",
+            "name_set": "Set 41",
+            "path": "love/iconset/set41.json",
+            "sort": 1
+        },
+        {
+            "id": "set42",
+            "name": "Set 42",
+            "path": "love/iconset/set42.json",
+            "sort": 2
+        }
+    ]
+}

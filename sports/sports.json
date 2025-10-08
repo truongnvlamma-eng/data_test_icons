@@ -1,0 +1,33 @@
+{
+    "id": "sports",
+    "name": "Sports",
+    "category": "sports",
+    "icon_preview": [
+        {
+            "id": "preview145",
+            "name": "Preview 145",
+            "path": "sports/iconsetpreview/preview145.png",
+            "sort": 1
+        },
+        {
+            "id": "preview146",
+            "name": "Preview 146",
+            "path": "sports/iconsetpreview/preview146.png",
+            "sort": 2
+        }
+    ],
+    "icon_set": [
+        {
+            "id": "set145",
+            "name_set": "Set 145",
+            "path": "sports/iconset/set145.json",
+            "sort": 1
+        },
+        {
+            "id": "set146",
+            "name": "Set 145",
+            "path": "sports/iconset/set146.json",
+            "sort": 2
+        }
+    ]
+}

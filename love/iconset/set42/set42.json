@@ -1,0 +1,23 @@
+{
+    "icon": [
+        {
+            "id": "camara",
+            "name": "Camara",
+            "path": "love/iconset/set42/Camara.png",
+            "sort": 1
+        },
+        {
+            "id": "facebook",
+            "name": "Facebook",
+            "path": "love/iconset/set42/Facebook.png",
+            "sort": 2
+        },
+        {
+            "id": "chrome",
+            "name": "Chrome",
+            "path": "love/iconset/set42/Fhrome.png",
+            "sort": 3
+        }
+    ]
+
+}

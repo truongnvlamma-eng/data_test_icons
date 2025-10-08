@@ -1,0 +1,20 @@
+{
+        "theme_packs": [
+                {
+                        "id": "sports",
+                        "name": "Sports",
+                        "category": "sports",
+                        "path": "sports/sports.json",
+                        "premium": true,
+                        "sort" : "1"
+                },
+                {
+                        "id": "love",
+                        "name": "Love",
+                        "category": "love",
+                        "path": "love/love.json",
+                        "premium": true,
+                        "sort" : "1"
+                }
+        ]
+}
